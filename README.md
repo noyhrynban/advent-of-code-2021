@@ -1,2 +1,2 @@
-# advent-of-code-2021
- Advent of Code 2021 challenge solutions in Rust
+# Advent of Code 2021
+ Here are my solutions for this year's [Advent of Code](https://adventofcode.com/2021) done in Rust.
